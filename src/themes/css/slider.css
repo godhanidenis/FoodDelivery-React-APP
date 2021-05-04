@@ -1,0 +1,6 @@
+.MuiSlider-thumb:not(.MuiSlider-active) {
+    transition: left 1s ease-in;
+}
+.MuiSlider-track {
+  transition: width 1s ease-in;
+}
